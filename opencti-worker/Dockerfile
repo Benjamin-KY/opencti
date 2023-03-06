@@ -1,4 +1,4 @@
-FROM python:3.11.0a7-alpine3.14
+FROM python:3.12.0a5-slim
 
 COPY src /opt/opencti-worker
 
